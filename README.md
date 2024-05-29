@@ -1,5 +1,6 @@
 # Retail-Data-Pipelining-with-Apache-Airflow-
 
+- [Pipeline](#Pipeline)
 
 
 ## Pipeline 
@@ -20,5 +21,13 @@ The data attributes include InvoiceNo, StockCode, Description, Quantity, Invoice
 (7)
 (8) To verify that the analytics are correct. 
 
+### Prerequisites:
+  - Docker
+  - Astro CLI
+  - Soda
+  - GC account
 
-## Piepeline
+## Data Modeling 
+
+
+## Dashboard
