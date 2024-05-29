@@ -2,6 +2,7 @@
 
 
 
+## Pipeline 
 
 ![image](https://github.com/aliamrod/Retail-Data-Pipelining-with-Apache-Airflow-/assets/62684338/88f89bb5-5629-4787-bda2-da7efd4f7ea5)
 
@@ -18,3 +19,6 @@ The data attributes include InvoiceNo, StockCode, Description, Quantity, Invoice
 (6)
 (7)
 (8) To verify that the analytics are correct. 
+
+
+## Piepeline
