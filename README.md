@@ -25,7 +25,7 @@ The data attributes include InvoiceNo, StockCode, Description, Quantity, Invoice
   - Docker
   - Astro CLI
   - Soda
-  - GC account
+  - Google Cloud Account (BigQuery)
 
 ## Data Modeling 
 
